@@ -1,0 +1,113 @@
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\ServicesBelowCeiling\Images\Logo.png
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\ServicesBelowCeiling\ServicesBelowCeiling.dll
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\ServicesBelowCeiling\ServicesBelowCeiling.pdb
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csprojResolveAssemblyReference.cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\bin\Debug\Images\Logo.png
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\bin\Debug\ServicesBelowCeiling.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\bin\Debug\ServicesBelowCeiling.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csprojResolveAssemblyReference.cache
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ServicesBelowCeiling2016\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\bin\Debug\ServicesBelowCeiling.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\bin\Debug\ServicesBelowCeiling.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\ServicesBelowCeiling.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\ServicesBelowCeiling.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csprojResolveAssemblyReference.cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\ServicesBelowCeiling.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\ServicesBelowCeiling.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\bin\Debug\ServicesBelowCeiling.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\bin\Debug\ServicesBelowCeiling.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\ServicesBelowCeiling.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\ServicesBelowCeiling.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csprojResolveAssemblyReference.cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2018\bin\Debug\ServicesBelowCeiling.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2018\bin\Debug\ServicesBelowCeiling.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csprojResolveAssemblyReference.cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\ServicesBelowCeiling.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\ServicesBelowCeiling.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csprojResolveAssemblyReference.cache
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csprojResolveAssemblyReference.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CopyComplete
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UI_ServicesBelowCeiling.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UIServicesBelowCeiling.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.AssemblyReference.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.Properties.Resources.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.UIServicesBelowCeiling.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.GenerateResource.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\ServicesBelowCeiling\ServicesBelowCeiling\obj\Debug\ServicesBelowCeiling.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\Navisworks test.csprojResolveAssemblyReference.cache
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\Navisworks_test\Navisworks_test.dll
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\Navisworks_test\Navisworks_test.pdb
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\Navisworks_test.dll
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\Navisworks_test.pdb
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\Navisworks test.csproj.GenerateResource.Cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\Navisworks_test.UI_CreateSelectionSet.resources
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\Navisworks_test\Images\createSelectionSet16X16.ico
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\Navisworks_test\Images\createSelectionSet32X32.ico

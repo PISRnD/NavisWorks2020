@@ -1,0 +1,34 @@
+﻿<dx:ThemedWindow x:Class="Support.UI.ReleaseWindowUIWPF" mc:Ignorable="d" d:DesignHeight="550" d:DesignWidth="600" Height="550" Width="600" Title="Main Page"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ClashOptimiser.UI"
+    xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+    xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+    xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="152*" />
+            <ColumnDefinition Width="141*" />
+            <ColumnDefinition Width="7*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32*" />
+
+        </Grid.RowDefinitions>
+        <dx:UniformStackPanel Margin="0,0,0,465" Grid.ColumnSpan="3" />
+        <Image HorizontalAlignment="Left" VerticalAlignment="Top" Source="/Resources/PinnacleWPFLogo.ico" Margin="-1,0,0,0" Width="116" />
+        <TextBlock Text="Plugins Information : MainPage" Margin="200,17,186,465" Grid.ColumnSpan="2" />
+        <dx:SimpleButton x:Name="button_LogIn" Content="Login" HorizontalAlignment="Left" Height="25" Margin="10,408,0,0" VerticalAlignment="Top" Width="115" />
+        <dx:SimpleButton x:Name="btn_Reset" Content="Reset" HorizontalAlignment="Left" Height="26" Margin="153,408,0,0" VerticalAlignment="Top" Width="97" RenderTransformOrigin="0.361,-0.306" />
+        <dx:SimpleButton x:Name="button_PrjInfo" Content="Provide ProjectInfo" HorizontalAlignment="Left" Height="25" Margin="123,408,0,0" VerticalAlignment="Top" Width="143" Grid.Column="1" />
+        <dx:UniformStackPanel Background="#FF0F0F4E" Margin="0,451,0,-2" Grid.ColumnSpan="3" />
+        <TextBlock Text="Pinnacle Infotech Solutions - R &amp; D" Foreground="White" HorizontalAlignment="Left" Margin="207,467,0,0" VerticalAlignment="Top" Height="22" Grid.ColumnSpan="2" />
+        <TextBlock Text="Create Revit Schedule - v1.0.0" Foreground="White" HorizontalAlignment="Left" Margin="222,489,0,0" VerticalAlignment="Top" Height="24" Grid.ColumnSpan="2" />
+        <dxg:GridControl x:Name="dataGridView1" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" Margin="10,69,10,131" Grid.ColumnSpan="3">
+
+        </dxg:GridControl>
+    </Grid>
+</dx:ThemedWindow>

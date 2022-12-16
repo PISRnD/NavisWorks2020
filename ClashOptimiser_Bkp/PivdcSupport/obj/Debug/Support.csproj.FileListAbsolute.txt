@@ -1,0 +1,46 @@
+C:\From DTP764\CategoryCentric\PiDocSolution\PiDocument\bin\Debug\docSupport.dll
+C:\From DTP764\CategoryCentric\PiDocSolution\PiDocument\bin\Debug\docSupport.pdb
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\UI\LoginWindow.baml
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\UI\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\docSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\docSupport_MarkupCompile.lref
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\UI\ProcessProgressBar.baml
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\docSupport.g.resources
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\PiDocument.PiD_SupportUI.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\docSupport.dll
+C:\From DTP764\CategoryCentric\PiDocSolution\PiD-Support\obj\Debug\docSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\UI\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\docSupport_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\docSupport_MarkupCompile.lref
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\docSupport.g.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\DocSupportUI.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\docSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiD-Support\obj\Debug\docSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupportUi.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\Support.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiDocument\bin\Debug\PivdcSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiDocument\bin\Debug\PivdcSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport_MarkupCompile.lref
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport.g.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport.pdb

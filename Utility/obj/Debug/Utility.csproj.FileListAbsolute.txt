@@ -1,0 +1,39 @@
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\Utility.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\Utility.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\Autodesk.Navisworks.Api.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\Autodesk.Navisworks.Api.xml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\obj\Debug\Utility.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\obj\Debug\Utility.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\MoreLinq.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\Support.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\System.Data.SQLite.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\RestSharp.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\Support.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\bin\Debug\Support.dll.config
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\bin\Debug\Utility.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\bin\Debug\Utility.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\bin\Debug\MoreLinq.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Utility.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Utility.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\obj\Debug\Utility.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\obj\Debug\Utility.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Utility.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Utility.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Utility\obj\Debug\Utility.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Utility\obj\Debug\Utility.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Utility.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Utility.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Utility\obj\Debug\Utility.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Utility\obj\Debug\Utility.pdb

@@ -1,0 +1,5 @@
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\obj\Debug\NavisWorks2018.csprojResolveAssemblyReference.cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\NavisWorks2018.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\NavisWorks2018.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\obj\Debug\NavisWorks2018.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\obj\Debug\NavisWorks2018.pdb

@@ -1,0 +1,30 @@
+﻿<dx:ThemedWindow Title="Create Selection Set" x:Class="CreateSelectionSet.UI.CreateSelectionSetUIWPF" mc:Ignorable="d" d:DesignHeight="350" d:DesignWidth="400" Height="390" Width="450"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ClashOptimiser.UI"
+    xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+    xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="96*" />
+
+
+        </Grid.RowDefinitions>
+        <Label Content="Tab Name : " Margin="10,10,322,297" />
+
+        <Label Content="Pinnacle Infotech Solutions - R &amp; D" Foreground="White" HorizontalAlignment="Left" Margin="255,220,0,0" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Create Revit Schedule - v1.0.0" Foreground="White" HorizontalAlignment="Left" Margin="269,242,0,0" VerticalAlignment="Top" Grid.Column="1" />
+        <dxe:TextEdit x:Name="txtCategoryName" HorizontalAlignment="Center" Margin="0,42,0,0" VerticalAlignment="Top" Height="34" Width="380" />
+        <Label Content="OR" Margin="176,74,200,233" RenderTransformOrigin="1.24,0.584" />
+        <dxe:ComboBoxEdit x:Name="cmbTabName" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top" Height="38" Width="380" />
+        <Label Content="Property Name : " Margin="10,154,298,153" />
+        <dxe:TextEdit x:Name="txtPropertyName" HorizontalAlignment="Center" Margin="0,254,0,0" VerticalAlignment="Top" Height="35" Width="380" />
+        <Label Content="OR" Margin="176,221,200,86" RenderTransformOrigin="1.24,0.584" />
+        <dxe:ComboBoxEdit x:Name="cmbPropertyName" HorizontalAlignment="Center" Margin="0,181,0,0" VerticalAlignment="Top" Height="38" Width="380" />
+        <dx:SimpleButton x:Name="CreateSelectionSetButton" Content="Create Selection Sets" HorizontalAlignment="Right" Height="34" Margin="0,304,27,0" VerticalAlignment="Top" Width="156" />
+    </Grid>
+</dx:ThemedWindow>

@@ -1,0 +1,161 @@
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\bin\Debug\GroupClashes.BM42.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\bin\Debug\GroupClashes.BM42.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csprojResolveAssemblyReference.cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashesInterface.g.cs
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.BM42_MarkupCompile.cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.BM42_MarkupCompile.lref
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashesInterface.baml
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.BM42.g.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.GroupClashesHostingControl.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.Cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.BM42.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashCluster\Downloaded\GroupClashes-master\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.BM42.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\ClashClusters.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\ClashClusters.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.g.cs
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.baml
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.Cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csprojResolveAssemblyReference.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\NavisWorks2018\bin\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\NavisWorks2018\bin\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csprojResolveAssemblyReference.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.g.cs
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.baml
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2017\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csprojResolveAssemblyReference.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.g.cs
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.baml
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2018\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\NavisWorks2019\bin\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\NavisWorks2019\bin\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.g.cs
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.baml
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2019\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\NavisWorks2019\bin\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\NavisWorks2019\bin\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\NavisWorks2021\bin\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\NavisWorks2021\bin\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.g.cs
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\RibbonNavisWorks2021\bin\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\RibbonNavisWorks2021\bin\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.baml
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2021\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csprojResolveAssemblyReference.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csprojResolveAssemblyReference.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.g.cs
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2021\bin\Debug\ClashClusters.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2021\bin\Debug\ClashClusters.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.baml
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.Cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.g.cs
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2021\bin\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2021\bin\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClustersInterface.baml
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CopyComplete
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ClashClusters.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\ClashClusters.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\ClashClusters.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.AssemblyReference.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.g.cs
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters_MarkupCompile.lref
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\UI\ClashClustersInterface.baml
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.g.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.ClashClustersHostingControl.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.GenerateResource.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CoreCompileInputs.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\GroupClashes.csproj.CopyComplete
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\GroupClashes-master\GroupClashes\obj\Debug\ClashClusters.pdb

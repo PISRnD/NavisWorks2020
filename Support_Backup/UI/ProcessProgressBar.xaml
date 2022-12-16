@@ -1,0 +1,39 @@
+﻿<Window x:Class="PiNavisworks.PiNavisworksSupport.ProcessProgressBar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:PiNavisworks.PiNavisworksSupport"
+        mc:Ignorable="d" Topmost="True"
+        Title="Process progress data | Pinnacle Dock v1.0.0"
+        d:DesignHeight="100" d:DesignWidth="400" MinHeight="100" MinWidth="400" MaxHeight="200" MaxWidth="800"
+        WindowStyle="ToolWindow" SizeToContent="WidthAndHeight"
+        Loaded="ProcessProgressBar_Loaded">
+
+    <Border Margin="5">
+
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+            </Grid.RowDefinitions>
+
+            <ProgressBar Name="processProgressBar" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" MinHeight="20" MaxHeight="50"/>
+            <TextBlock Name="txtProgressdata" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Foreground="Blue" HorizontalAlignment="Left"/>
+            <Button Name="btnCancelProcess" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"
+                    HorizontalAlignment="Right" Content="Process Cancel" Click="btnCancelProcess_Click"/>
+
+        </Grid>
+
+    </Border>
+
+</Window>

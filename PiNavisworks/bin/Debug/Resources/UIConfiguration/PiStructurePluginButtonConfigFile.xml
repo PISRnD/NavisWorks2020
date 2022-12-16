@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfToolDescriptionClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <ToolDescriptionClass>
+    <Package>PiStructure</Package>
+    <AddinName>Shuttering</AddinName>
+	<PanelName>Pi Calculation</PanelName>
+	<ButtonType>PushButton</ButtonType>
+	<ButtonName>btnShuttering</ButtonName>
+	<ButtonText>Shuttering</ButtonText>
+    <SubAddinName>Shuttering</SubAddinName>	
+    <FlockName>PiShuttering.dll</FlockName>
+    <IconPath>Shuttering.png</IconPath>
+    <Description>Calculates the shuttering area of the selected category elements (eg. Floor, Wall, Beam, Column).</Description>
+	<ExpandContent>Calculates the shuttering area of the selected category elements as per the user selection form the user interface.</ExpandContent>
+	<AddinDescription>Shuttering area calculation.</AddinDescription>
+	<ToolTipIconPath></ToolTipIconPath>
+	<AddinToolTipIconPath></AddinToolTipIconPath>
+	<AddinIcon>Shuttering.png</AddinIcon>
+    <EntryPoint>PiStructure.PiShuttering.Engine</EntryPoint>
+	<HelpAddinName></HelpAddinName>
+	<PluginOrderNumber>1</PluginOrderNumber>
+  </ToolDescriptionClass>
+  
+</ArrayOfToolDescriptionClass>

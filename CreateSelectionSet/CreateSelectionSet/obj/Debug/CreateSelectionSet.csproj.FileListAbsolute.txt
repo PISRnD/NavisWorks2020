@@ -1,0 +1,149 @@
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\CreateSelectionSet.csprojResolveAssemblyReference.cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\Navisworks_test.UI_CreateSelectionSet.resources
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\CreateSelectionSet.dll
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Navisworks test\Navisworks test\obj\Debug\CreateSelectionSet.pdb
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\CreateSelectionSet\Images\createSelectionSet16X16.ico
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\CreateSelectionSet\Images\createSelectionSet32X32.ico
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\CreateSelectionSet\CreateSelectionSet.dll
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\CreateSelectionSet\CreateSelectionSet.pdb
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Create Selection Set\Navisworks test\obj\Debug\CreateSelectionSet.csprojResolveAssemblyReference.cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Create Selection Set\Navisworks test\obj\Debug\Navisworks_test.UI_CreateSelectionSet.resources
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Create Selection Set\Navisworks test\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Create Selection Set\Navisworks test\obj\Debug\CreateSelectionSet.dll
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\Create Selection Set\Navisworks test\obj\Debug\CreateSelectionSet.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\obj\Debug\CreateSelectionSet.csprojResolveAssemblyReference.cache
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\obj\Debug\Navisworks_test.UI_CreateSelectionSet.resources
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\obj\Debug\CreateSelectionSet.dll
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\obj\Debug\CreateSelectionSet.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\bin\Debug\Images\createSelectionSet16X16.ico
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\bin\Debug\Images\createSelectionSet32X32.ico
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\bin\Debug\CreateSelectionSet.dll
+C:\DeblinaWork_18062019\Navisworks Addins\Create Selection Set2016\Navisworks test\bin\Debug\CreateSelectionSet.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\bin\Debug\CreateSelectionSet.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\bin\Debug\CreateSelectionSet.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\CreateSelectionSet.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\CreateSelectionSet.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\Images\createSelectionSet16X16.ico
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\Images\createSelectionSet32X32.ico
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\CreateSelectionSet.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\CreateSelectionSet.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\Images\createSelectionSet16X16.ico
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\Images\createSelectionSet32X32.ico
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\CreateSelectionSet.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\CreateSelectionSet.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csprojResolveAssemblyReference.cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\Images\createSelectionSet16X16.ico
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\Images\createSelectionSet32X32.ico
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\CreateSelectionSet.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\CreateSelectionSet.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csprojResolveAssemblyReference.cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet16X16.ico
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet32X32.ico
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csprojResolveAssemblyReference.cache
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csprojResolveAssemblyReference.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll.licenses
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UI_CreateSelectionSet.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll.licenses
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll.licenses
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UICreateSelectionSet.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Images\createSelectionSet16X16.ico
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Images\createSelectionSet32X32.ico
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\CreateSelectionSet.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\CreateSelectionSet.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.AssemblyReference.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.Properties.Resources.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.UICreateSelectionSet.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.GenerateResource.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll.licenses
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CoreCompileInputs.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.csproj.CopyComplete
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\CreateSelectionSet\CreateSelectionSet\obj\Debug\CreateSelectionSet.pdb

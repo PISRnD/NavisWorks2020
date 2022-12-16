@@ -1,0 +1,16 @@
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiDocument\bin\Debug\PiD-Support.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiDocument\bin\Debug\PiD-Support.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support.csproj.AssemblyReference.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\UI\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support_MarkupCompile.lref
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support.g.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiDocument.PiD_SupportUI.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocumentSln\PiD-Support\obj\Debug\PiD-Support.pdb

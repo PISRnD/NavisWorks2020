@@ -1,0 +1,132 @@
+D:\AMBAR-works\Navis-add-ins\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+D:\AMBAR-works\Navis-add-ins\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+D:\AMBAR-works\Navis-add-ins\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+D:\AMBAR-works\Navis-add-ins\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+D:\AMBAR-works\Navis-add-ins\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+D:\AMBAR-works\Navis-add-ins\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\ClashOptimiser\ClashOptimiser.dll
+C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\ClashOptimiser\ClashOptimiser.pdb
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\Users\Ratnadeep.Sarkar\Documents\Visual Studio 2013\Projects\ClashOptimiser\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\obj\Debug\ClashOptimiser.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\obj\Debug\ClashOptimiser.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\bin\Debug\ClashOptimiser.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2016\bin\Debug\ClashOptimiser.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2018\bin\Debug\ClashOptimiser.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2018\bin\Debug\ClashOptimiser.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\obj\Debug\ClashOptimiser.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\obj\Debug\ClashOptimiser.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2019\bin\Debug\ClashOptimiser.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2019\bin\Debug\ClashOptimiser.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2020\bin\Debug\ClashOptimiser.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2020\bin\Debug\ClashOptimiser.pdb
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\bin\Debug\ClashOptimiser.dll
+C:\DeblinaWork_18062019\Navisworks Addins\ClashOptimiser2017\bin\Debug\ClashOptimiser.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashOptimiser\bin\Debug\ClashOptimiser.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashOptimiser\bin\Debug\ClashOptimiser.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\ClashOptimiser.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\ClashOptimiser.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\ClashOptimiser.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\NavisWorks2018\bin\Debug\ClashOptimiser.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ClashOptimiser\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\ClashOptimiser.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\ClashOptimiser.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\ClashOptimiser\obj\Debug\Test.Form1.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\ClashOptimiser.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\ClashOptimiser.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ClashOptimiser\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ClashOptimiser\obj\Debug\Test.Form1.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ClashOptimiser\obj\Debug\Test.Form1.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\Test.Form1.resources
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+E:\Deblina_share\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csprojResolveAssemblyReference.cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\Test.Form1.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.Cache
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.pdb
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\Users\deblina.sarkar\Desktop\Navisworks Add-in Setup\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\Test.Form1.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Navisworks Add-in Setup Release 3\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\Test.Form1.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\Test.Form1.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.UI_Display.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ClashOptimiser.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\Test.Form1.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.Properties.Resources.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.ClashOptimiserUI.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\ClashOptimiser\obj\Debug\ClashOptimiser.pdb

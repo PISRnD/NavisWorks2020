@@ -1,0 +1,5 @@
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\RibbonPISNvwM2019.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\bin\Debug\RibbonPISNvwM2019.pdb
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\obj\Debug\RibbonPISNvwM2019.csprojResolveAssemblyReference.cache
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\obj\Debug\RibbonPISNvwM2019.dll
+\\dtp1143\Deblina_share\Ambar DaC#\NavisWorks2019\RibbonNavisWorks2019\obj\Debug\RibbonPISNvwM2019.pdb

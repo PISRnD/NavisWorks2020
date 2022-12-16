@@ -1,0 +1,5 @@
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\RibbonPISNvwM2018.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\bin\Debug\RibbonPISNvwM2018.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\obj\Debug\RibbonPISNvwM2018.dll
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\obj\Debug\RibbonPISNvwM2018.pdb
+C:\From DTP764\Navisworks Add-in Setup\NavisWorks2018\RibbonNavisWorks2018\obj\Debug\RibbonPISNvwM2018.csprojResolveAssemblyReference.cache

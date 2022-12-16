@@ -1,0 +1,208 @@
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\PiNavisworks.dll.config
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\PiNavisworks.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\PiNavisworks.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\AdWindows.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Autodesk.Navisworks.Api.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Autodesk.Navisworks.ComApi.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\navisworks.gui.roamer.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\OfflineInstaller.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\navisworks.gui.generic.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\navisworks.gui.interface.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\navisworks.gui.common.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\odviewdll_clr.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\System.Data.SQLite.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\RestSharp.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Janus.Data.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Syncfusion.Core.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Autodesk.Navisworks.Api.xml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Autodesk.Navisworks.ComApi.xml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Support.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Support.dll.config
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\bin\Debug\lcodpgluerest.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\obj\Debug\PiNavisworks.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\obj\Debug\PiNavisworks.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\obj\Debug\PiNavisworks.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\obj\Debug\PiNavisworks.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\obj\Debug\PiNavisworks.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\obj\Debug\NwcOpenLocation.UI_FileLocation.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\RibbonNavisWorks2020\obj\Debug\PiNavisworks.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\PiNavisworks.dll.config
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\PiNavisworks.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\PiNavisworks.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\AdWindows.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\navisworks.gui.roamer.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\navisworks.gui.generic.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\navisworks.gui.interface.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\navisworks.gui.common.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\odviewdll_clr.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Janus.Data.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Syncfusion.Core.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\lcodpgluerest.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\obj\Debug\PiNavisworks.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\obj\Debug\PiNavisworks.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\obj\Debug\PiNavisworks.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\obj\Debug\PiNavisworks.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\obj\Debug\PiNavisworks.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\System.Data.SQLite.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\RestSharp.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\EPPlus.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\PiNavisworksSupport.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\AdWindows.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.gui.roamer.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.gui.generic.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.gui.interface.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.gui.common.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\odviewdll_clr.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Data.v3.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Core.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\lcodpgluerest.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\UI\PISNavisworksM.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworks.dll.config
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworks.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworks.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.g.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworks.dll.config
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworks.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworks.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\System.Data.SQLite.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\RestSharp.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\AWSSDK.CognitoIdentityProvider.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Amazon.Extensions.CognitoAuthentication.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\AWSSDK.KinesisFirehose.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\AWSSDK.Core.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.gui.generic.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.gui.interface.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.gui.common.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\odviewdll_clr.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\AWSSDK.CognitoIdentity.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Janus.Data.v3.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Syncfusion.Core.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworksSupport.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Utility.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\lcodpgluerest.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.csproj.AssemblyReference.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\UI\PISNavisworksM.baml
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks_MarkupCompile.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.g.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.csproj.CoreCompileInputs.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.csproj.CopyComplete
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\obj\Debug\PiNavisworks.pdb

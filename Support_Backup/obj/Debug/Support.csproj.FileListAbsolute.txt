@@ -1,0 +1,699 @@
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution\Support\bin\Debug\Support.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution\Support\bin\Debug\Support.pdb
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution\Support\obj\Debug\Support.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution\Support\obj\Debug\Support.pdb
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\obj\Debug\Support.csprojAssemblyReference.cache
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\obj\Debug\Support.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\obj\Debug\Support.pdb
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\Support.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\Support.pdb
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitAPIUI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitAPIFoundation.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\PersistenceDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\UtilityAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\APIDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\GraphicsAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\ElementGroupDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\EssentialsDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\GeomUtilAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\FamilyDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\DetailDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\ArrayElemsDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\HostObjDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\SiteDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\SculptingDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\StructuralDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\InterfaceAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\InterfaceUtilAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RebarDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\MassingDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\AssemblyDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\DPartDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\NumberingDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\PointCloudAccessAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\StairRampDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\AnalysisAppsDBAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\DBManagedServices.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\AdWindows.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitAddInUtility.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\APIInterop.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\UIFramework.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\AddInManager.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitUIAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\BuildingSystemsUIAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\DesktopMFCAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\APIUIAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitMFCAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\EssentialsUIAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\DetailUIAPI.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\UIFrameworkServices.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\ManagedMC3.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitAPI.xml
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\RevitAPIUI.xml
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\en-GB\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\en-US\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Sarit Share\Team\Ambar\ElectricalPackageSolution\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\Support.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\Support.pdb
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitAPIUI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitAPIFoundation.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\PersistenceDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\UtilityAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\APIDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\GraphicsAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\ElementGroupDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\EssentialsDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\GeomUtilAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\FamilyDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\DetailDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\ArrayElemsDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\BuildingSystemsDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\HostObjDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\SiteDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\SculptingDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\StructuralDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\InterfaceAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\InterfaceUtilAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RebarDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\MassingDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\AssemblyDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\DPartDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\NumberingDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\PointCloudAccessAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\StairRampDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\AnalysisAppsDBAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\DBManagedServices.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\AdWindows.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitAddInUtility.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\APIInterop.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\UIFramework.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\AddInManager.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitUIAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\BuildingSystemsUIAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\DesktopMFCAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\APIUIAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitMFCAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\EssentialsUIAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\DetailUIAPI.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\UIFrameworkServices.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\ManagedMC3.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitAPI.xml
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\RevitAPIUI.xml
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\de-DE\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\en-GB\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\en-US\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\es-ES\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\it-IT\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\obj\Debug\Support.dll
+C:\From DTP764\ElectricalPackage\ElectricalPackageSolution_v2\Support\obj\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\Support.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitAPIUI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitAPIFoundation.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\PersistenceDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\UtilityAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\APIDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\GraphicsAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\ElementGroupDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\EssentialsDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\GeomUtilAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\FamilyDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\DetailDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\ArrayElemsDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\BuildingSystemsDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\HostObjDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\SiteDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\SculptingDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\StructuralDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\InterfaceAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\InterfaceUtilAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RebarDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\MassingDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\AssemblyDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\DPartDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\NumberingDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\PointCloudAccessAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\StairRampDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\AnalysisAppsDBAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\DBManagedServices.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\AdWindows.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitAddInUtility.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\APIInterop.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\UIFramework.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\AddInManager.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitUIAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\BuildingSystemsUIAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\DesktopMFCAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\APIUIAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitMFCAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\EssentialsUIAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\DetailUIAPI.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\UIFrameworkServices.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\ManagedMC3.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitAPI.xml
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\RevitAPIUI.xml
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\de-DE\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\en-GB\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\en-US\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\es-ES\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\it-IT\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\obj\Debug\Support.dll
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\obj\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\StructuralPackageSolution\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\Support.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitAPIUI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitAPIFoundation.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\PersistenceDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\UtilityAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\APIDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\GraphicsAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\ElementGroupDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\EssentialsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\GeomUtilAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\FamilyDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\DetailDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\ArrayElemsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\BuildingSystemsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\HostObjDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\SiteDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\SculptingDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\StructuralDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\InterfaceAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\InterfaceUtilAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RebarDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\MassingDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\AssemblyDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\DPartDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\NumberingDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\PointCloudAccessAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\StairRampDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\AnalysisAppsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\DBManagedServices.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\AdWindows.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitAddInUtility.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\APIInterop.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\UIFramework.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\AddInManager.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\BuildingSystemsUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\DesktopMFCAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\APIUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitMFCAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\EssentialsUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\DetailUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\UIFrameworkServices.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\ManagedMC3.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitAPI.xml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\RevitAPIUI.xml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\de-DE\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\en-GB\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\en-US\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\es-ES\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\it-IT\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\obj\Debug\Support.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution\Support\obj\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\Support.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitAPIUI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitAPIFoundation.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\PersistenceDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\UtilityAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\APIDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\GraphicsAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\ElementGroupDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\EssentialsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\GeomUtilAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\FamilyDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\DetailDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\ArrayElemsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\BuildingSystemsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\HostObjDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\SiteDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\SculptingDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\StructuralDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\InterfaceAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\InterfaceUtilAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RebarDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\MassingDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\AssemblyDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\DPartDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\NumberingDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\PointCloudAccessAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\StairRampDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\AnalysisAppsDBAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\DBManagedServices.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\AdWindows.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitAddInUtility.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\APIInterop.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\UIFramework.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\AddInManager.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\BuildingSystemsUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\DesktopMFCAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\APIUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitMFCAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\EssentialsUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\DetailUIAPI.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\UIFrameworkServices.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\ManagedMC3.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitAPI.xml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\RevitAPIUI.xml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\de-DE\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\en-GB\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\en-US\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\es-ES\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\it-IT\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\obj\Debug\Support.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\obj\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v0\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\bin\Debug\Support.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\bin\Debug\Support.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\Support.csproj.GenerateResource.Cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v1\Support\obj\Debug\MechSupport.pdb
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Ribbon\bin\Debug\MechSupport.dll
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Ribbon\bin\Debug\MechSupport.pdb
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\MechSupport.g.resources
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\UIElementConfiguration.AddSpecification.resources
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\UIElementConfiguration.SpecificationForm.resources
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\MechSupport.dll
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\MechSupport.pdb
+C:\Users\pis02190\Desktop\RevitApiProject\Spool Package\Beta Review\MechanicalPackageSolution_v2\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\UIElementConfiguration.AddSpecification.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\UIElementConfiguration.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\Support.csproj.GenerateResource.Cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_suraj\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\UIElementConfiguration.AddSpecification.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\UIElementConfiguration.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v7\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\UIElementConfiguration.AddSpecification.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\UIElementConfiguration.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Ribbon\bin\Debug\MechSupport.dll
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Ribbon\bin\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csprojAssemblyReference.cache
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport.g.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\UIElementConfiguration.AddSpecification.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\UIElementConfiguration.SpecificationForm.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport.dll
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8\Support\obj\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Ribbon\bin\Debug\MechSupport.dll
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\MechSupport.g.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\UIElementConfiguration.AddSpecification.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\UIElementConfiguration.SpecificationForm.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\MechSupport.dll
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Ribbon\bin\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\MechanicalPackage\MechanicalPackageSolution_v8_Till2021\Support\obj\Debug\Support.csprojAssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\UIElementConfiguration.AddSpecification.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\UIElementConfiguration.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\MechanicalPackage.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\Support.csproj.GenerateResource.Cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\MechanicalPackageSolution_v9_Till2021\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.AddSpecification.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\CombinePinnacleDock\Support\obj\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Ribbon\bin\Debug\MechSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Ribbon\bin\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\MechSupport.g.resources
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.AddSpecification.resources
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.SpecificationForm.resources
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\MechSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\MechSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\Updated\CombinePinnacleDock\Support\obj\Debug\Support.csprojAssemblyReference.cache
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.AddSpecification.resources
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\from Rahul\CombinePinnacleDock\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\PinnacleDockRevit.AddSpecification.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\PinnacleDockRevit.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_ModelChecker\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\PinnacleDockRevit.AddSpecification.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\PinnacleDockRevit.SpecificationForm.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\CombinePinnacleDock_IndividualProject\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\PiMSolution\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\PiMSolution\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\UI\Progress\ProcessProgressBar.g.cs
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\MechSupport_MarkupCompile.lref
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\UI\Progress\ProcessProgressBar.baml
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\PiMSolution\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\PiCommonSolution\Ribbon\bin\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\PiCommonSolution\Ribbon\bin\Debug\MechSupport.pdb
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\UI\Progress\ProcessProgressBar.g.cs
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\MechSupport_MarkupCompile.cache
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\MechSupport_MarkupCompile.lref
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\UI\Progress\ProcessProgressBar.baml
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\MechSupport.g.resources
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\MechSupport.dll
+C:\From DTP764\CategoryCentric\PiCommonSolution\Support\obj\Debug\MechSupport.pdb
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\bin\Debug\PiShuttringSupport.dll
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\bin\Debug\PiShuttringSupport.pdb
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\Login\LoginWindow.baml
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\Login\LoginWindow.g.cs
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\Progress\ProcessProgressBar.g.cs
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport_MarkupCompile.cache
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport_MarkupCompile.lref
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\Progress\ProcessProgressBar.baml
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport.g.resources
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PinnacleDockRevit.Support.PISProjectInformationUI.resources
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.CopyComplete
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport.dll
+C:\From DTP764\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\bin\Debug\PiShuttringSupport.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\bin\Debug\PiShuttringSupport.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport_MarkupCompile.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport_MarkupCompile.lref
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport.g.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiShuttringSupport.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\LoginWindow.baml
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\PiSupport.DatabaseUi.PISProjectInformationUI.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiShuttringEngine\PiShuttringEngine\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\PiStructure\bin\Debug\PiStructureSupport.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\PiStructure\bin\Debug\PiStructureSupport.pdb
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\UI\LoginWindow.baml
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\PiStructureSupport_MarkupCompile.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\PiStructureSupport_MarkupCompile.lref
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\PiStructureSupport.g.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\PiStructure.PiStructureSupport.PISProjectInformationUI.resources
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\PiStructureSupport.dll
+C:\Users\preeti.kumari\Documents\Visual Studio 2013\Projects\Shuttring_Issue\PiStructure\Support\obj\Debug\PiStructureSupport.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\PiNavisworksSupport.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\PiNavisworks\bin\Debug\PiNavisworksSupport.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\UI\LoginWindow.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\PiNavisworksSupport_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\PiNavisworksSupport_MarkupCompile.lref
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\PiNavisworksSupport.g.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\PiNavisworks.PiNavisworksSupport.PISProjectInformationUI.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\PiNavisworks.PiNavisworksSupport.ReleaseWindow.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\PiNavisworksSupport.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\PiNavisworksSupport.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\UI\LoginWindow.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\PiNavisworksSupport_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\PiNavisworksSupport_MarkupCompile.lref
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\PiNavisworksSupport.g.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\PiNavisworks.PiNavisworksSupport.PISProjectInformationUI.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\PiNavisworks.PiNavisworksSupport.ReleaseWindow.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\Support.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\PiNavisworksSupport.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support\obj\Debug\PiNavisworksSupport.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworksSupport.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworksSupport.pdb
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport_MarkupCompile.lref
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\LoginWindow.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport.g.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworks.PiNavisworksSupport.PISProjectInformationUI.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworks.PiNavisworksSupport.ReleaseWindow.resources
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.CopyComplete
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworksSupport.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\PiNavisworks\bin\Debug\PiNavisworksSupport.pdb
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport_MarkupCompile.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport_MarkupCompile.lref
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\LoginWindow.baml
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport.g.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworks.PiNavisworksSupport.PISProjectInformationUI.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworks.PiNavisworksSupport.ReleaseWindow.resources
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\Support.csproj.CopyComplete
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport.dll
+C:\Users\pis04395\Downloads\NavisWorks2020 _New\NavisWorks2020 _New\Support_Backup\obj\Debug\PiNavisworksSupport.pdb

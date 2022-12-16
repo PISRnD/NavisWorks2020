@@ -1,0 +1,43 @@
+﻿<dx:ThemedWindow x:Class="CreateRevitSchedule.UI.CreateRevitScheduleUIWPF" mc:Ignorable="d" d:DesignHeight="850" d:DesignWidth="900" Height="850" Width="900" Title="Option"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ClashOptimiser.UI"
+    xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+    xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+    xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32*" />
+            <RowDefinition Height="235*" />
+        </Grid.RowDefinitions>
+        <dx:UniformStackPanel Margin="0,0,0,21" />
+        <Image HorizontalAlignment="Left" VerticalAlignment="Top" Source="/Resources/PinnacleWPFLogo.ico" Margin="-1,0,0,0" Width="116" />
+        <TextBlock Text="Create Revit Schedule : Option" Margin="314,17,314,21" />
+        <dxlc:GroupBox Header="Select Fields" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Height="615" Width="285" Grid.RowSpan="2" />
+
+        <dxe:ListBoxEdit HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="listBox_categories" Margin="27,95,0,0" Width="243" Height="227" Grid.RowSpan="2">
+        </dxe:ListBoxEdit>
+        <dxe:ListBoxEdit HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="listBox_Properties" Margin="27,256,0,0" Width="243" Grid.Row="1" Height="285">
+        </dxe:ListBoxEdit>
+        <TextBlock Text="Categories" HorizontalAlignment="Left" Margin="22,79,0,0" VerticalAlignment="Top" />
+        <TextBlock Text="Fields" HorizontalAlignment="Left" Margin="27,227,0,0" VerticalAlignment="Top" Grid.Row="1" RenderTransformOrigin="0.664,2.637" />
+        <!--<DataGrid x:Name="dataGridView_Schedule" Margin="300,63,10,171" Grid.RowSpan="2"/>-->
+        <dxe:ProgressBarEdit x:Name="progressBar1" HorizontalAlignment="Center" Margin="0,581,0,0" Grid.Row="1" VerticalAlignment="Top" Width="880" />
+        <dx:SimpleButton x:Name="button_ExportMultiple" Content="Export Multiple" HorizontalAlignment="Left" Height="25" Margin="10,618,0,0" Grid.Row="1" VerticalAlignment="Top" Width="115" />
+        <dx:SimpleButton x:Name="button_show" Content="Show" HorizontalAlignment="Left" Height="25" Margin="536,618,0,0" Grid.Row="1" VerticalAlignment="Top" Width="97" />
+        <dx:SimpleButton x:Name="button_export" Content="Export to Spreadsheet" HorizontalAlignment="Right" Height="25" Margin="0,618,10,0" Grid.Row="1" VerticalAlignment="Top" Width="143" />
+        <dx:UniformStackPanel Background="#FF0F0F4E" Margin="0,661,0,0" Grid.Row="1" />
+        <TextBlock Text="Pinnacle Infotech Solutions - R &amp; D" Foreground="White" HorizontalAlignment="Center" Margin="0,677,0,0" Grid.Row="1" VerticalAlignment="Top" />
+        <TextBlock Text="Create Revit Schedule - v1.0.0" Foreground="White" HorizontalAlignment="Center" Margin="0,699,0,0" Grid.Row="1" VerticalAlignment="Top" />
+        <dxlc:GroupBox HorizontalAlignment="Left" Margin="314,50,0,0" VerticalAlignment="Top" Height="613" Grid.RowSpan="2" Width="555" Header="Schedule">
+            <dxg:GridControl x:Name="dataGridView_Schedule" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" Margin="0,0,0,15">
+                <dxg:GridControl.View>
+                    <dxg:TableView />
+                </dxg:GridControl.View>
+            </dxg:GridControl>
+        </dxlc:GroupBox>
+    </Grid>
+</dx:ThemedWindow>

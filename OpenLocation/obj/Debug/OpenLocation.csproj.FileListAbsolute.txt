@@ -1,0 +1,10 @@
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\bin\Debug\OpenLocation.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\bin\Debug\OpenLocation.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\obj\Debug\OpenLocation.csprojResolveAssemblyReference.cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\obj\Debug\OpenLocation.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\obj\Debug\OpenLocation.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\OpenLocation.dll
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\NavisWorks2018\bin\Debug\OpenLocation.pdb
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\obj\Debug\OpenLocation.Properties.Resources.resources
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\obj\Debug\OpenLocation.csproj.GenerateResource.Cache
+C:\Umakanta20042018\AutoCAD_API_Development\NavisworksManage_API\NavisWorks2018\OpenLocation\obj\Debug\OpenLocation.UI_FileLocation.resources

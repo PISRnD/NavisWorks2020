@@ -1,0 +1,120 @@
+﻿<dx:ThemedWindow
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ClashOptimiser.UI"
+    xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+    xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+    xmlns:dxdove="http://schemas.devexpress.com/winfx/2008/xaml/docking/visualelements" 
+    xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/charts" x:Name="ClashOptimiserUI" x:Class="ClashOptimiser.UI.ClashOptimiserUIWPF" 
+    mc:Ignorable="d" 
+    d:DesignHeight="740" d:DesignWidth="800" 
+    Height="800" Width="820"
+    Title="Clash Optimiser | PiVDCNavisworks"
+    >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="529*" />
+            <RowDefinition Height="195*" />
+        </Grid.RowDefinitions>
+        <GroupBox Header="Available Files" x:Name="groupBox1" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,10,0,0" Height="116" Width="780" >
+            <dxe:ListBoxEdit HorizontalAlignment="Left" Name="lstAvailFiles" Margin="10,0,0,0" VerticalAlignment="Top" Height="76" Width="746"/>
+        </GroupBox>
+        <dxg:GridControl x:Name="dataClashGrid" Margin="10,131,10,218" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"/>
+        <TextBlock Text="Name :" HorizontalAlignment="Left" Margin="14,342,0,0" VerticalAlignment="Top" Height="22" Width="38" />
+        <TextBlock Text="Clash Test Name" HorizontalAlignment="Left" Margin="73,342,0,0" VerticalAlignment="Top" Height="22" Width="87" />
+        <TextBlock Text="Tolerence :" HorizontalAlignment="Left" Margin="259,342,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.604,0.233" Height="22" Width="56" />
+        <GroupBox x:Name="groupBox2" Header="Ignore" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="14,368,0,0" Height="55" Width="350" Background="#00000000" />
+        <dxe:CheckEdit x:Name="chkIgnoreReviewed" Content="Reviewed" HorizontalAlignment="Left" Margin="89,381,0,0" VerticalAlignment="Top" Height="31" Width="69" />
+        <dxe:CheckEdit x:Name="chkIgnoreApproved" Content="Approved" HorizontalAlignment="Left" Margin="223,381,0,0" VerticalAlignment="Top" Height="31" Width="71" />
+        <GroupBox Header="Tolerence" x:Name="groupBox3" HorizontalAlignment="Left" Margin="436,363,0,0" VerticalAlignment="Top" Height="60" Width="347">
+            <GroupBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </GroupBox.RenderTransform>
+            <dxe:TrackBarEdit x:Name="trackTolerence" Margin="64,0,51,0" />
+        </GroupBox>
+        <TextBlock Text="Local" HorizontalAlignment="Left" Margin="443,390,0,0" VerticalAlignment="Top" Height="22" Width="40" />
+        <TextBlock Text="Global" HorizontalAlignment="Left" Margin="730,399,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.633,0.695" Height="22" Width="53" />
+        <dxe:ProgressBarEdit HorizontalAlignment="Left" Margin="14,440,0,0" VerticalAlignment="Top" Width="769" Height="38" />
+        <RadioButton x:Name="rdBtnBoundingBox" Content="Bounding Box" HorizontalAlignment="Left" Margin="19,488,0,0" VerticalAlignment="Top" Height="39" Width="114">
+            <RadioButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </RadioButton.RenderTransform>
+        </RadioButton>
+        <RadioButton x:Name="rdBtnCategory" Content="Name" HorizontalAlignment="Left" Margin="147,488,0,0" VerticalAlignment="Top" Height="39" Width="91">
+            <RadioButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </RadioButton.RenderTransform>
+        </RadioButton>
+        <dxe:CheckEdit x:Name="chkArrange" Content="Arrange" HorizontalAlignment="Left" Margin="287,485,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.328,-0.725" Height="32" Width="87" />
+        <dx:SimpleButton x:Name="btnReset" Content="UNGROUP" HorizontalAlignment="Left" Height="22" Margin="423,485,0,0" VerticalAlignment="Top" Width="79" />
+        <dx:SimpleButton x:Name="btnOptimise" Content="OPTIMIZE" HorizontalAlignment="Left" Height="22" Margin="606,485,0,0" VerticalAlignment="Top" Width="79" />
+        <TextBlock Text="Tab Name :" HorizontalAlignment="Left" Margin="36,17,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,7.379" Height="22" Width="59" Grid.Row="1" />
+        <TextBlock Text="Property Name :" HorizontalAlignment="Left" Margin="36,68,0,0" VerticalAlignment="Top" Grid.Row="1" Height="22" Width="86" />
+        <TextBlock Text="Property Value :" HorizontalAlignment="Left" Margin="36,110,0,0" VerticalAlignment="Top" Grid.Row="1" Height="22" Width="84" RenderTransformOrigin="0.506,0.864" />
+        <dx:DropDownButton x:Name="cmbTabName" Content="DropDownButton" HorizontalAlignment="Left" Margin="140,9,0,156" Width="146" Grid.Row="1">
+            <dx:DropDownButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </dx:DropDownButton.RenderTransform>
+        </dx:DropDownButton>
+        <dx:DropDownButton x:Name="cmbPropertyName" Content="DropDownButton" HorizontalAlignment="Left" Margin="140,56,0,0" Grid.Row="1" VerticalAlignment="Top" Height="34" Width="146" />
+        <dx:DropDownButton x:Name="cmbPropertyValue" Content="DropDownButton" HorizontalAlignment="Left" Margin="140,103,0,0" Grid.Row="1" VerticalAlignment="Top" Height="35" Width="146" />
+        <TextBlock Text="OR" HorizontalAlignment="Left" Margin="373,61,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,7.379" Height="22" Width="16" Grid.Row="1" />
+        <TextBlock Text="OR" HorizontalAlignment="Left" Margin="373,6,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,7.379" Grid.Row="1" Height="22" Width="16" />
+        <TextBlock Text="OR" HorizontalAlignment="Left" Margin="373,114,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,7.379" Grid.Row="1" Height="22" Width="16" />
+        <dxe:TextEdit HorizontalAlignment="Left" Margin="463,104,0,0" VerticalAlignment="Top" Width="187" Height="32" Grid.Row="1">
+            <dxe:TextEdit.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </dxe:TextEdit.RenderTransform>
+        </dxe:TextEdit>
+        <dxe:TextEdit HorizontalAlignment="Left" Margin="465,13,0,0" Grid.Row="1" VerticalAlignment="Top" Width="187" Height="26">
+            <dxe:TextEdit.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </dxe:TextEdit.RenderTransform>
+        </dxe:TextEdit>
+        <dxe:TextEdit x:Name="txtPropertyValue" HorizontalAlignment="Left" Margin="465,61,0,0" Grid.Row="1" VerticalAlignment="Top" Width="185" Height="29">
+            <dxe:TextEdit.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </dxe:TextEdit.RenderTransform>
+        </dxe:TextEdit>
+        <dxc:MajorGridLinesRenderControl HorizontalAlignment="Left" Margin="165,150,0,0" VerticalAlignment="Top" Height="0" Width="0"/>
+    </Grid>
+</dx:ThemedWindow>

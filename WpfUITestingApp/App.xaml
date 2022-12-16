@@ -1,0 +1,23 @@
+﻿<Application x:Class="WpfUITestingApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfUITestingApp"
+             StartupUri="\Support\ReleaseWindowUIWPF.xaml">
+             
+    <!--StartupUri="\Support\PISProjectInformationUIWPF.xaml">-->
+             
+             
+             <!--StartupUri="\ServicesBelowCeiling\ServicesBelowCeilingUIWPF.xaml">-->
+
+    <!--StartupUri="\MergeTimeLinerData\NavisworksTimelinerUIWPF.xaml">-->
+    <!--StartupUri="\MergeTimeLinerData\ImportExportUIWPF.xaml">-->
+    <!--StartupUri="\LevelwiseViewpointCreater\LevelwiseViewpointCreaterUIWPF.xaml">-->
+    <!--StartupUri="\CreateSelectionSet\CreateSelectionSetUIWPF.xaml">-->
+    <!--StartupUri="\CreateRevitSchedule\CreateRevitScheduleUIWPF.xaml">-->
+    <!--StartupUri="\ClashOptimiser\ClashOptimiserUIWPF.xaml">-->
+                 <!--StartupUri="\NwcOpenLocation\UIFileLocationUIWPF.xaml">-->           
+
+             <!--StartupUri="\mergetimelinerdata\NavisworksTimelinerUIWPF.xaml">-->
+    <Application.Resources>         
+    </Application.Resources>
+</Application>

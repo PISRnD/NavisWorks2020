@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- BEGIN STANDARD SECTION DO NOT EDIT 
+    except for ensuring x:Uid="CustomRibbonTab" has a unique ID
+    -->  
+<RibbonControl 
+    x:Uid="ADNRibbonDemo" xmlns="clr-namespace:Autodesk.Windows;assembly=AdWindows"
+    xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:adwi="clr-namespace:Autodesk.Internal.Windows;assembly=AdWindows"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Autodesk.Navisworks.Gui.Roamer.AIRLook;assembly=navisworks.gui.roamer">
+    <!-- END STANDARD SECTION DO NOT EDIT -->
+
+
+
+    <RibbonTab Name="Pinnacle"  Id="ID_PISTab_1" KeyTip="T1">
+        <RibbonPanel x:Uid="RibbonPane1_1">
+            <RibbonPanelSource x:Uid="RibbonPanelSource_RibbonPanel_1" KeyTip="C1" Title="PIS : In-house Tools">
+
+                <local:NWRibbonButton x:Uid="Button_1" Id="ID_ClashOptimizer_1"
+                                    Size="Large"
+                                    KeyTip="B1"
+                                    ShowText="True"   
+                                    Text="Clash Optimizer"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_2" Id="ID_CreateRevitSchedule_2"
+                                    Size="Large"
+                                    KeyTip="B2"
+                                    ShowText="True"   
+                                    Text="Create Revit Schedule"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_3" Id="ID_CreateSelectionSet_3"
+                                    Size="Large"
+                                    KeyTip="B3"
+                                    ShowText="True"   
+                                    Text="Create Selection Set"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_4" Id="ID_ServicesBelowCeiling_4"
+                                    Size="Large"
+                                    KeyTip="B4"
+                                    ShowText="True"   
+                                    Text="Services Below Ceiling"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_5" Id="ID_TimelineMerger_5"
+                                    Size="Large"
+                                    KeyTip="B5"
+                                    ShowText="True"   
+                                    Text="Timeline Merger"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_6" Id="ID_NwcOpenLocation_6"
+                                    Size="Large"
+                                    KeyTip="B6"
+                                    ShowText="True"   
+                                    Text="Location Extractor"
+                                    Orientation="Vertical"/>
+
+
+                <local:NWRibbonButton x:Uid="Button_7" Id="ID_GroupClashes_7"
+                                    Size="Large"
+                                    KeyTip="B8"
+                                    ShowText="True"   
+                                    Text="Clash Cluster"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_8" Id="ID_InformationWindow_8"
+                                    Size="Large"
+                                    KeyTip="B9"
+                                    ShowText="True"   
+                                    Text="Information"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_9" Id="ID_Usage_9"
+                                    Size="Large"
+                                    KeyTip="B10"
+                                    ShowText="True"   
+                                    Text="Usage"
+                                    Orientation="Vertical"/>
+
+                <local:NWRibbonButton x:Uid="Button_10" Id="ID_Help_10"
+                                    Size="Large"
+                                    KeyTip="B11"
+                                    ShowText="True"   
+                                    Text="Help"
+                                    Orientation="Vertical"/>
+                <local:NWRibbonButton x:Uid="Button_11" Id="ID_LevelwiseViewpointCreator_11"
+                                    Size="Large"
+                                    KeyTip="B12"
+                                    ShowText="True"   
+                                    Text="LevelwiseViewpointCreator"
+                                    Orientation="Vertical"/>
+
+
+            </RibbonPanelSource>
+        </RibbonPanel>        
+    </RibbonTab>
+</RibbonControl>

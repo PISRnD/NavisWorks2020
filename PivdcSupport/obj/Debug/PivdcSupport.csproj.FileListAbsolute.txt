@@ -1,0 +1,59 @@
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiDocument\bin\Debug\docPivdcSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PiDocument\bin\Debug\docPivdcSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.AssemblyReference.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\docPivdcSupport_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\docPivdcSupport_MarkupCompile.lref
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\docPivdcSupport.g.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupportUi.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupportUi.WinFormToolTipHelp.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\docPivdcSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiDocSolution\PivdcSupport\obj\Debug\docPivdcSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\Ribbon\bin\Debug\CommPivdcSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\Ribbon\bin\Debug\CommPivdcSupport.pdb
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.AssemblyReference.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\UI\LoginWindow.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport_MarkupCompile.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport_MarkupCompile.lref
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.baml
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport.g.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupportUi.PISProjectInformationUI.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupportUi.WinFormToolTipHelp.resources
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.GenerateResource.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.CoreCompileInputs.cache
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.CopyComplete
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport.dll
+C:\Users\rahul.suman\Documents\RND\Addins\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport.pdb
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\Ribbon\bin\Debug\CommPivdcSupport.dll
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\Ribbon\bin\Debug\CommPivdcSupport.pdb
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\UI\LoginWindow.baml
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\UI\LoginWindow.g.cs
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.g.cs
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport_MarkupCompile.cache
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport_MarkupCompile.lref
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\UI\ProcessProgressBar.baml
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport.g.resources
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupportUi.PISProjectInformationUI.resources
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupportUi.WinFormToolTipHelp.resources
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.GenerateResource.cache
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.CoreCompileInputs.cache
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.CopyComplete
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport.dll
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\CommPivdcSupport.pdb
+E:\Project\16-09-22\PiCommSolution\PiCommSolution\PivdcSupport\obj\Debug\PivdcSupport.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\PivdcSupport.csproj.AssemblyReference.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\UI\LoginWindow.baml
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\UI\LoginWindow.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\UI\ProcessProgressBar.g.cs
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\CommPivdcSupport_MarkupCompile.cache
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\CommPivdcSupport_MarkupCompile.lref
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\CommPivdcSupport.dll
+C:\Users\preeti.kumari\Desktop\28.1\Release28.2_04_10_2021\NavisworksFInalSolutionForProduction\NavisWorks2020 _New\PivdcSupport\obj\Debug\CommPivdcSupport.pdb

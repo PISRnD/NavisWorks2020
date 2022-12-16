@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f9d64d1-5117-4411-ab4a-76296e58ac3f": {
+      "ProjectGuid": "4f9d64d1-5117-4411-ab4a-76296e58ac3f",
+      "DisplayName": "CreateSelectionSet",
+      "ColorIndex": 0
+    },
+    "26b639cf-dedc-49ec-93c8-f49429734ff1": {
+      "ProjectGuid": "26b639cf-dedc-49ec-93c8-f49429734ff1",
+      "DisplayName": "ServicesBelowCeiling",
+      "ColorIndex": 1
+    },
+    "65aa71b2-0d05-4419-98d6-648d0b393cd9": {
+      "ProjectGuid": "65aa71b2-0d05-4419-98d6-648d0b393cd9",
+      "DisplayName": "PiNavisworks",
+      "ColorIndex": 2
+    },
+    "253358c5-46ca-4b6e-afc3-0938194369df": {
+      "ProjectGuid": "253358c5-46ca-4b6e-afc3-0938194369df",
+      "DisplayName": "NwcOpenLocation",
+      "ColorIndex": 3
+    },
+    "4c2f6e9e-9df9-4080-b4ee-03958aee66d1": {
+      "ProjectGuid": "4c2f6e9e-9df9-4080-b4ee-03958aee66d1",
+      "DisplayName": "Support",
+      "ColorIndex": 4
+    },
+    "b175a48e-0a5b-478a-9f85-4a41dede4e7e": {
+      "ProjectGuid": "b175a48e-0a5b-478a-9f85-4a41dede4e7e",
+      "DisplayName": "CreateRevitSchedule",
+      "ColorIndex": 5
+    },
+    "a0cec185-d61d-4baa-88ed-f8a09e41727f": {
+      "ProjectGuid": "a0cec185-d61d-4baa-88ed-f8a09e41727f",
+      "DisplayName": "Utility",
+      "ColorIndex": 6
+    },
+    "cd20ec0e-7f1c-45e5-aded-9941a351a79a": {
+      "ProjectGuid": "cd20ec0e-7f1c-45e5-aded-9941a351a79a",
+      "DisplayName": "ClashOptimiser",
+      "ColorIndex": 7
+    },
+    "3876fa5d-2b66-4859-a4cd-12f9020b4c29": {
+      "ProjectGuid": "3876fa5d-2b66-4859-a4cd-12f9020b4c29",
+      "DisplayName": "GroupClashes",
+      "ColorIndex": 8
+    },
+    "b88065a9-3d76-4d92-8227-d345516cce68": {
+      "ProjectGuid": "b88065a9-3d76-4d92-8227-d345516cce68",
+      "DisplayName": "MergeTimeLinerData",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4faaa5f0-40a0-4cd0-8830-66c7cfa5533c": {
+      "ProjectGuid": "4faaa5f0-40a0-4cd0-8830-66c7cfa5533c",
+      "DisplayName": "PiNavisworksDock",
+      "ColorIndex": 10
+    },
+    "967af162-4cf6-4ca9-bb87-68cf95d1a48d": {
+      "ProjectGuid": "967af162-4cf6-4ca9-bb87-68cf95d1a48d",
+      "DisplayName": "Support",
+      "ColorIndex": 11
+    },
+    "5f18883b-f8ca-4bfc-8301-9eee299961f6": {
+      "ProjectGuid": "5f18883b-f8ca-4bfc-8301-9eee299961f6",
+      "DisplayName": "PivdcSupport",
+      "ColorIndex": 12
+    },
+    "f0a89a62-8c23-4cf7-ac24-129f3fe36c28": {
+      "ProjectGuid": "f0a89a62-8c23-4cf7-ac24-129f3fe36c28",
+      "DisplayName": "LevelwiseViewpointCreater",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}
